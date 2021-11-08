@@ -1,0 +1,34 @@
+# What will (likely) be the title of your project?
+
+Matchmaker bot
+
+## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
+
+A bot that will match you up with someone completely different than you
+
+## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
+
+It is a discord bot that compares answers from different users and idenifies differences between them. The bot will then recommend the profile of a user that is the most different to the current user as someone to get to know.
+The bot would be pulling from profiles of people in the discord server
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
+
+TODO, if applicable
+
+## If planning to collaborate with 1 or 2 classmates for the final project, list their names, email addresses, and the names of their assigned TAs below.
+
+Rida Ayub: Joanne Nichols rida.ayub@temple.edu
+Kuralai Zholdosh Kzzy: Sai Shi tun23975@temple.edu
+
+
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
+
+### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
+
+The bot is able to ask the user questions to make a profile, save it, and compare it to saved profiles of others
+
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
+
+Given a valid file, the bot can create a profile from the info and the file and compare it with others with out needing to ask the user every question.
+
+### In a sentence (or list of features), define a BEST outcome for your final project. I.e., what do you HOPE to accomplish before the final project's deadline?
+The bot can test for valid files, identify and ask for missing info and pair the new profile with previously made files. Maybe a separate mode of the bot can match users with people similar to them.
